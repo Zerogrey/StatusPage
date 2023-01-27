@@ -8,8 +8,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /StatusPage
+  cname: "status.kooomo.com"
+  # baseUrl: /StatusPage
   logoUrl: https://img01.aws.kooomo-cloud.com/themes/267/improvements_NOV18/images/custom/kooomo-logo-grey.svg
   name: "Kooomo Status Page"
   introTitle: "**Kooomo's** status page will reflect real time monitor of the Platform and any scheduled maintenance."
