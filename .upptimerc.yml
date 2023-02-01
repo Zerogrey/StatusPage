@@ -4,6 +4,10 @@ repo: StatusPage
 sites:
   - name: Kooomo
     url: https://www.kooomo.com
+  - name: "Kooomo Analytics"
+    url: https://analytics.kooomo.com
+  - name: "Kooomo Payments"
+    url: https://checkoutshopper-live.adyen.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
