@@ -8,6 +8,7 @@ sites:
     url: https://analytics.kooomo.com
   - name: "Kooomo Payments"
     url: https://checkoutshopper-live.adyen.com
+    icon: https://www.kooomo.com/themes/178/default_theme/images/payments/KooomoPayments.jpg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
