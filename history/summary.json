@@ -6,7 +6,7 @@
     "slug": "kooomo",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 870,
     "timeYear": 885,
     "dailyMinutesDown": {
+      "2023-09-26": 0,
       "2023-07-26": 16
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://analytics.kooomo.com",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.kooomo.com.ico",
     "slug": "kooomo-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 1026,
     "timeYear": 988,
     "dailyMinutesDown": {
+      "2023-09-26": 0,
       "2023-07-26": 15
     }
   },
