@@ -4,9 +4,9 @@
     "url": "https://www.kooomo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.kooomo.com.ico",
     "slug": "kooomo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -16,6 +16,7 @@
     "timeMonth": 1185,
     "timeYear": 943,
     "dailyMinutesDown": {
+      "2024-04-08": 0,
       "2023-09-26": 494,
       "2023-07-26": 16
     }
@@ -25,7 +26,7 @@
     "url": "https://analytics.kooomo.com",
     "icon": "https://icons.duckduckgo.com/ip3/analytics.kooomo.com.ico",
     "slug": "kooomo-analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +38,7 @@
     "timeMonth": 993,
     "timeYear": 1006,
     "dailyMinutesDown": {
+      "2024-04-08": 0,
       "2023-09-27": 850,
       "2023-09-26": 1418,
       "2023-07-26": 15
