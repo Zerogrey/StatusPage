@@ -11,14 +11,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 981,
-    "timeDay": 1422,
-    "timeWeek": 1157,
-    "timeMonth": 1023,
+    "timeDay": 879,
+    "timeWeek": 1156,
+    "timeMonth": 1020,
     "timeYear": 1023,
     "dailyMinutesDown": {
       "2024-04-08": 9,
-      "2023-09-26": 494,
-      "2023-07-26": 16
+      "2023-09-26": 494
     }
   },
   {
@@ -27,21 +26,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.kooomo.com.ico",
     "slug": "kooomo-analytics",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 1012,
-    "timeDay": 1036,
-    "timeWeek": 1077,
+    "timeDay": 829,
+    "timeWeek": 1054,
     "timeMonth": 1018,
     "timeYear": 1024,
     "dailyMinutesDown": {
       "2024-04-08": 8,
       "2023-09-27": 850,
-      "2023-09-26": 1418,
-      "2023-07-26": 15
+      "2023-09-26": 1418
     }
   },
   {
@@ -56,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 462,
-    "timeDay": 445,
-    "timeWeek": 441,
-    "timeMonth": 456,
+    "timeDay": 378,
+    "timeWeek": 437,
+    "timeMonth": 457,
     "timeYear": 467,
     "dailyMinutesDown": {}
   }
