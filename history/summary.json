@@ -58,15 +58,17 @@
     "slug": "kooomo-payments",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
+    "time": 489,
     "timeDay": 446,
     "timeWeek": 503,
     "timeMonth": 503,
     "timeYear": 492,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-21": 0
+    }
   }
 ]
