@@ -56,11 +56,11 @@
     "url": "https://checkoutshopper-live.adyen.com",
     "icon": "https://www.kooomo.com/themes/178/default_theme/images/payments/KooomoPayments.jpg",
     "slug": "kooomo-payments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 503,
     "timeDay": 4143,
@@ -68,7 +68,7 @@
     "timeMonth": 732,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2025-04-21": 10
+      "2025-04-21": 0
     }
   }
 ]
